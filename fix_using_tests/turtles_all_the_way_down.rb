@@ -14,5 +14,6 @@ def turtle_traits(turtles)
       trait
     end
   end
+  puts "PUTA QUE PARIU"
   binding.pry
 end
